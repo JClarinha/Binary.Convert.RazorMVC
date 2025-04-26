@@ -1,4 +1,4 @@
-using System.Collections;
+using System.Collections; // MVC Services - representa toda a lógica exixstente
 
 public class ConversorService : IConversorService
 {
