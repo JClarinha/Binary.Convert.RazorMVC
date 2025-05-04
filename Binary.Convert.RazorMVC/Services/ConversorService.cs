@@ -10,7 +10,7 @@ public class ConversorService : IConversorService
                 return DecimalParaBinario(input);
             case "BinarioParaDecimal":
                 return BinarioParaDecimal(input);
-            case "DecimalparaHexadecimal":
+            case "DecimalParaHexadecimal":
                 return DecimalParaHexadecimal(input);
             case "HexadecimalParaDecimal":
                 return HexadecimalParaDecimal(input);
